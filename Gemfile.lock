@@ -28,7 +28,7 @@ GEM
     jc-validates_timeliness (3.1.1)
       timeliness (~> 0.3.7)
     minitest (5.11.3)
-    rake (10.5.0)
+    rake (13.0.1)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
@@ -55,7 +55,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.16)
   historio!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
   sqlite3
   timecop
